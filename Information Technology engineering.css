@@ -144,13 +144,14 @@ opacity:0.9;
   text-align: left;
  width: 800px;
  margin-left: 47px;
- padding-top:103px;
+ padding-top:115px;
 
 }
 .paragraph{
 
   font-size: 22px;
-margin-top: -128px;
+margin-top: -138px;
+/* margin-bottom: 3px; */
   margin-left: 600px;
   color: #fff;
   transform: scale(0.94);

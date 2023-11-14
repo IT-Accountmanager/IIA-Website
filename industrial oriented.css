@@ -157,6 +157,7 @@ opacity:0.9;
     color: #fff;
     opacity:0;
     animation: drop 1.8s linear forwards;
+    z-index: 0;
   }
   @keyframes drop {
     0% {transform: translateY(-200px) scaleY(0.9); opacity: 0;}

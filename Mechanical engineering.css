@@ -9,7 +9,7 @@
   margin-right: 2%;
   text-decoration: white;
   width: 100%;
-  background: linear-gradient(60deg,  #4A148C 25.6%, #4A148C 20%, #4A148C 20%, #4A148C 20%, white 20%);
+  background: linear-gradient(60deg,  #4A148C 25.55%, #4A148C 20%, #4A148C 20%, #4A148C 20%, white 20%);
   text-align: right;
 }
 .container{
@@ -151,7 +151,7 @@ opacity:0.9;
   font-size: 16.5px;
   margin-right: 150px;
   margin-left: 300px;
-  margin-top: -130px;
+  margin-top: -140px;
   color: #fff;
 }
 .paragraph-1{
